@@ -58,10 +58,10 @@
 					<ul class="foo-links clearfix">
 					<li><a href="{{url('/about')}}">About Us</a></li>
 													<li><a href="{{url('/contact')}}">Contact Us</a></li>
-													<li><a href="faqs/">Terms and Conditions</a></li>
+													<li><a href="">Terms and Conditions</a></li>
 												
 												
-													<li><a href="visa/tourist-visitor-visas/">FAQ</a></li>	
+													<li><a href="">FAQ</a></li>	
 														
 																			
 					</ul>

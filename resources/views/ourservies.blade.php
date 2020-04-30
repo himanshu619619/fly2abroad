@@ -18,7 +18,7 @@
             <div class="row">
                 <div class="col-md-6 col-lg-4">
                     <div class="sbox-4 icon-sm">
-                        <a href="">
+                        <a href="{{url('/immigration')}}">
 
                             <div class="sbox-4-icon primary-color"><i class="fas fa-plane" style="font-size: 50px;"></i></div>
 
@@ -32,7 +32,7 @@
                 </div><!-- SERVICE BOX -->
                 <div class="col-md-6 col-lg-4">
                     <div class="sbox-4 icon-sm">
-                        <a href="/business-immigration/">
+                        <a href="{{url('/')}}">
 
                             <div class="sbox-4-icon primary-color"><i class="fab fa-cc-visa" style="font-size: 50px;"></i></div>
 
@@ -46,7 +46,7 @@
                 </div><!-- SERVICE BOX -->
                 <div class="col-md-6 col-lg-4">
                     <div class="sbox-4 icon-sm">
-                        <a href="/skilled-immigration/">
+                        <a href="{{url('/student-immigration')}}">
 
                             <div class="sbox-4-icon primary-color"><i class="fas fa-user-graduate" style="font-size: 50px;"></i></div>
 
@@ -63,7 +63,7 @@ students imigration</p>
                 </div><!-- SERVICE BOX -->
                 <div class="col-md-6 col-lg-4">
                     <div class="sbox-4 icon-sm">
-                        <a href="/spouse-family-visas/">
+                        <a href="{{url('/tour-travel')}}">
 
                             <div class="sbox-4-icon primary-color"><i class="fas fa-suitcase" style="font-size: 50px;"></i></div>
 
@@ -79,7 +79,7 @@ tours & travel</p>
                 </div><!-- SERVICE BOX -->
                 <div class="col-md-6 col-lg-4">
                     <div class="sbox-4 icon-sm">
-                        <a href="/tourist-visitor-visas/">
+                        <a href="{{url('/eb-5')}}">
 
                             <div class="sbox-4-icon primary-color"><i class="fas fa-vihara" style="font-size: 50px;"></i></div>
 
