@@ -6,7 +6,7 @@
             <div class="row d-flex align-items-center">
                 <div class="col-md-6">
                     <div class="about-img about-2-img text-center mb-40">
-                        <img class="img-fluid" src="{{asset('public/images/image-03.png')}}"
+                        <img class="img-fluid" src="{{asset('public/images/immigration.jpg')}}"
                             alt="about-image" />
                         
                     </div>
@@ -51,7 +51,7 @@
 
                     <img src="" alt="">
 <h1>Canada</h1> 
-<p>Team Invictus is one of the biggest names in Immigration Consultancy in India. Established in Canada, the company has registered exponential growth thanks to the surge of immigrants to international destinations from all over the country in the past few years.</p>
+<p>We are one of the biggest names in Immigration Consultancy in India. Established in Canada, the company has registered exponential growth thanks to the surge of immigrants to international destinations from all over the country in the past few years.</p>
                         
                     </div>
                 </div> <!-- END ABOUT TEXT	-->

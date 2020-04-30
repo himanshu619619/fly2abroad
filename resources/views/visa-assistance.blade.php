@@ -3,15 +3,32 @@
 <section class="wide-60 about-section about-2" id="about-2">
         <div class="container">
 
-            <div class="row center text-center align-items-center">
-                <div class="col-md-12">
+            <div class="row d-flex align-items-center">
+                <div class="col-md-6">
                     <div class="about-img about-2-img text-center mb-40">
-                        <img class="img-fluid" src="{{asset('public/images/visa.jpg')}}"
+                        <img class="img-fluid" src="{{asset('public/images/visa3.jpg')}}"
                             alt="about-image" />
                         
                     </div>
                 </div>
-            
+                <div class="col-md-6">
+                    <div class="about-2-txt pc-20 mb-40">
+                        <span class='section-id id-color'></span>
+                        <h3 class='h3-lg darkblue-color'>Visa Assistance</h3>
+                        <div class="box-list">
+                            <div class="box-list-icon"><i class="fas fa-genderless"></i></div>
+                            <p>Immigration to other countries from your native land is not an apple pie. You need to show that you are competent enough to be able to enter your dream country whether it is Canada, Australia, UK, USA, New Zealand or be it any other country in a legal manner, and able to settle there well. </p>
+                        </div>
+                        <div class="box-list">
+                            <div class="box-list-icon"><i class="fas fa-genderless"></i></div>
+                            <p>We is always there for you to support you at each step, which you march towards fulfilling your long cherished dream. Ranging from the initial analysis of your profile to getting ready and submitting your file and eventually to help you in meeting all the obligatory necessities once you land in your dream country, you may get one stop resolution to any or all your immigration desires. </p>
+                        </div>
+                        <div class="box-list">
+                            <div class="box-list-icon"><i class="fas fa-genderless"></i></div>
+                            <p>Whether you would like to choose us for a PR Visa with Job Assistance Program, permanent residency, visa for skillful employees or investment visa, Express Entry Consultation, Federal Skilled Worker Program, you may get all the help that’s required. </p>
+                        </div>
+                    </div>
+                </div> <!-- END ABOUT TEXT	-->
             </div> <!-- End row -->
         </div> <!-- End container -->
     </section>
@@ -21,50 +38,20 @@
     <section class="bg-lightgrey pt-100 about-section about-4 bg-tra-city" id="about-4">
         <div class="container">
 
-            <div class="row  text-justilfy">
-                <div class="col-lg-4 col-xl-4 text-center ">
+            <div class="row align-items-center">
+                <div class="col-lg-6 col-xl-6 text-center ">
                    
 <img src="" alt="">
-<h1>AUSTRALIA</h1> 
-<p>Australia offers a diverse range of study options for international students, with more than 1,200 institutions and over 22,000 courses to choose from.</p>
-
+<h1>USA</h1> 
+<p>The EB5 Visa Program is undoubtedly the easiest and fastest way to get your US Green Card. India is a fast-growing market for EB5 applicants, seeking to migrate to the United States for educational, business and career opportunities not only for themselves but their families and children too.</p>
 
                 </div>
-                <div class="col-lg-4 col-xl-4  text-center">
+                <div class="col-lg-6 col-xl-6  text-center">
                     <div class="about-4-txt pc-20 mb-40">
 
                     <img src="" alt="">
-<h1>CANADA</h1> 
-<p>Apply & Study in top & renowned universities in Canada as an international student, extend your study permit & find out about employment routes while you study or after you graduate.</p>
-                        
-                    </div>
-                </div> <!-- END ABOUT TEXT	-->
-
-                <div class="col-lg-4 col-xl-4  text-center">
-                    <div class="about-4-txt pc-20 mb-40">
-
-                    <img src="" alt="">
-<h1>EUROPE</h1> 
-<p>Assisting students in selecting and making effective admission applications to European universities.</p>
-                        
-                    </div>
-                </div> <!-- END ABOUT TEXT	-->
-
-                <div class="col-lg-4 col-xl-4  text-center">
-                    <div class="about-4-txt pc-20 mb-40">
-
-                    <img src="" alt="">
-                    <h1>USA</h1> 
-<p>Discover the perfect course and college for you, based on your profile strength, & your preferences.</p>
-                        
-                    </div>
-                </div> <!-- END ABOUT TEXT	-->
-                <div class="col-lg-4 col-xl-4  text-center">
-                    <div class="about-4-txt pc-20 mb-40">
-
-                    <img src="" alt="">
-<h1>ASIA</h1> 
-<p>Asia’s consistent economic growth, urban development and educational reform means growing opportunities.</p>
+<h1>Canada</h1> 
+<p>We are one of the biggest names in Immigration Consultancy in India. Established in Canada, the company has registered exponential growth thanks to the surge of immigrants to international destinations from all over the country in the past few years.</p>
                         
                     </div>
                 </div> <!-- END ABOUT TEXT	-->

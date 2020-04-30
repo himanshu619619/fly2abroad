@@ -34,6 +34,10 @@ Route::get('/students-immigration', function(){
 
     return view('students-immigration');
 });
+Route::get('/visa-assistance', function(){
+
+    return view('visa-assistance');
+});
 
 Route::Post('/sendmail/send', 'SendEmailController@send');
 Route::Post('/sendmail/contact', 'SendEmailController@contact');

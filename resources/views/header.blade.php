@@ -187,8 +187,8 @@ Surrey, BC V3W 4E8 canada --> INDIA | CANADA
 <ul class="link-list wp-link-list">
 	<li class="title">What We Offer:</li>
 	<li><a href="{{url('/immigration')}}" title="Student Visa Assessment">Immigration</a></li>
-	<li><a href="{{url('/')}}" title="Working Visa Assessment">Visa Assistance</a></li>
-	<li><a href="{{url('/student-immigration')}}" title="Business Visa Assessment">Student Visa </a></li>
+	<li><a href="{{url('/visa-assistance')}}" title="Working Visa Assessment">Visa Assistance</a></li>
+	<li><a href="{{url('/students-immigration')}}" title="Business Visa Assessment">Student Visa </a></li>
 	<li><a href="{{url('/tour-travel')}}" title="PR Visa Assessment">Tours & Travel Services</a></li>
 	<li><a href="{{url('/eb-5')}}" title="Visa Eligibility Assessment">EB 5 Services</a></li>
 </ul></div>

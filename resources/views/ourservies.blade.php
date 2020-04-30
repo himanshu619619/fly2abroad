@@ -32,7 +32,7 @@
                 </div><!-- SERVICE BOX -->
                 <div class="col-md-6 col-lg-4">
                     <div class="sbox-4 icon-sm">
-                        <a href="{{url('/')}}">
+                        <a href="{{url('/visa-assistance')}}">
 
                             <div class="sbox-4-icon primary-color"><i class="fab fa-cc-visa" style="font-size: 50px;"></i></div>
 
@@ -46,7 +46,7 @@
                 </div><!-- SERVICE BOX -->
                 <div class="col-md-6 col-lg-4">
                     <div class="sbox-4 icon-sm">
-                        <a href="{{url('/student-immigration')}}">
+                        <a href="{{url('/students-immigration')}}">
 
                             <div class="sbox-4-icon primary-color"><i class="fas fa-user-graduate" style="font-size: 50px;"></i></div>
 

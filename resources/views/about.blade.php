@@ -1,11 +1,11 @@
-@include('header');
+@include('header')
 <section class="wide-60 about-section about-2" id="about-2">
         <div class="container">
 
             <div class="row d-flex align-items-center">
                 <div class="col-md-6">
                     <div class="about-img about-2-img text-center mb-40">
-                        <img class="img-fluid" src="{{asset('public/images/image-03.png')}}"
+                        <img class="img-fluid" src="{{asset('public/images/immigration.jpg')}}"
                             alt="about-image" />
                         
                     </div>
@@ -151,4 +151,4 @@
 
 
 
-@include('footer');
+@include('footer')
