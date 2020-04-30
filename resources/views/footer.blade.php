@@ -23,43 +23,29 @@
 				<div class="footer-box mb-40">
 				
 					<!-- Title -->
-					<h5 class='h5-md'>Contact Details</h5><!-- Text -->
+					<h5 class='h5-md'>Contact Us (CANADA)</h5><!-- Text -->
 
 					<!-- Address -->
-																		<p class="p-sm ">York Business Center, Suite 208
-
-
-</p>
-										
-							 
-													<p class="p-sm ">7928 128 street Surrey, BC V3W 4E8 canad </p>
-										
-							 
-													<p class="p-sm mt-20">Phone: +1(778) 929 9866</p>
-										
-							 
-														<p class="p-sm foo-email">Email: <a href="mailto:support@fly2abroad.com">support@fly2abroad.com</a></p>
+				<p class="p-sm ">York Business Center, Suite 208</p>
+<p class="p-sm ">7928 128 street Surrey, BC V3W 4E8 canad </p>
+<p class="p-sm mt-20">Phone: +1(778) 929 9866</p>
+<p class="p-sm foo-email">Email: <a href="mailto:support@fly2abroad.com">support@fly2abroad.com</a></p>
 				 
 											
 				</div>
 			</div><!-- FOOTER CONTACTS -->
 		
 						<div class="col-lg-4 col-xl-3">
-				<div class="footer-links mb-40">
+				<div class="footer-box mb-40">
 				
 					
-					<h5 class='h5-md'>Useful Links</h5><!-- Title -->
-					<!-- Footer Links -->
-					<ul class="foo-links clearfix">
-													
-													<li><a href="visa-list-page-1/">Immigration</a></li>
-													<li><a href="faqs/">Visa Assistance</a></li>
-													<li><a href="visa-list-page-2/">Student Visa</a></li>
-													<li><a href="partners-colleges/">Tours & Travel Services</a></li>
-													
-														
-					</ul>
+				<h5 class='h5-md'>Contact Us (INDIA)</h5><!-- Text -->
 
+					<!-- Address -->
+				<p class="p-sm ">A-17, D-Mansa Ram Park, </p>
+<p class="p-sm "> Nawada, Metro Pillar no 734, New Delhi-110059 </p>
+<p class="p-sm mt-20">Phone: +91-9654188876</p>
+<p class="p-sm foo-email">Email: <a href="mailto:support@fly2abroad.com">support@fly2abroad.com</a></p>
 				</div>
 			</div><!-- FOOTER LINKS -->
 		
@@ -70,8 +56,8 @@
 
 					<!-- Footer Links -->
 					<ul class="foo-links clearfix">
-					<li><a href="about-us/">About Us</a></li>
-													<li><a href="contacts-style-2/">Contact Us</a></li>
+					<li><a href="{{url('/about')}}">About Us</a></li>
+													<li><a href="{{url('/contact')}}">Contact Us</a></li>
 													<li><a href="faqs/">Terms and Conditions</a></li>
 												
 												

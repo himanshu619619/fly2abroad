@@ -28,5 +28,17 @@ class SendEmailController extends Controller
    }
 
 
+   function contact(request $request)
+   {
+    $details = array('name' => $request->name, 
+                     'phone' => $request->phone,
+                     'email' => $request->email,
+                     'visa' => $request->visa,  
+                     'message' => $request->message        
+                     );
+                     //  var_dump($details);
+                  Mail::send(new SendEmail($details));
+                  return back()->with('success', 'Thanks for contacting Us');
+   }
    
 }

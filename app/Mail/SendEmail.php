@@ -29,10 +29,10 @@ class SendEmail extends Mailable
     public function build()
     {
         // return $this->from('himanshu@7continentsmedia.com')->subject("Contact Form of Fly2abroad")->view('email_template')->with('data', $this->data);
-
+       
         return $this->from('himanshu@7continentsmedia.com','fly2abroad')
                     ->to('himanshu@7continentsmedia.com',$this->details['name'])
-                    ->subject('contact has been successfully post')
+                    ->subject('contact has been successfully Submit')
                     ->view('EMailer.success');
     }
 }

@@ -1,4 +1,6 @@
 @include('header');
+
+
 <section class="wide-60 about-section about-2" id="about-2">
         <div class="container">
 
@@ -74,81 +76,6 @@
             </div> <!-- End row -->
         </div> <!-- End container -->
     </section>
-
-
-
-    <div class="wide-60 statistic-section statistic-2 bg-blue-map" id="statistic-2">
-        <div class="container">
-
-
-            <div class="row">
-                <div class="col-md-12 section-title center white-color">
-
-
-                    <h2 class='h2-xs'>Why Choose Us?</h2><!-- Title -->
-                    <p class='p-md'>Cursus porta, feugiat primis in ultrice ligula risus auctor tempus dolor feugiat,
-                        felis lacinia risus interdum auctor id viverra dolor iaculis luctus placerat and massa </p>
-                    <!-- Text -->
-
-                </div>
-            </div> <!-- END SECTION TITLE -->
-
-            <div class="row d-flex align-items-center">
-
-                <div class="col-md-6 col-lg-3">
-                    <div class="statistic-block icon-sm">
-
-                    <i class="fas fa-user-graduate" style="font-size: 80px; color: #D33234;"></i><!-- Icon -->
-                        <!-- Text -->
-                        <h5 class="primary-color">
-                            <span class="count-element">820</span>
-                            + </h5>
-                        <p class='p-md'>Students</p>
-
-                    </div>
-                </div><!-- STATISTIC BLOCK  -->
-                <div class="col-md-6 col-lg-3">
-                    <div class="statistic-block icon-sm">
-                    <i class="fas fa-university" style="font-size: 80px; color: #D33234;"></i>
-                    
-                        <!-- Text -->
-                        <h5 class="primary-color">
-                            <span class="count-element">127</span>
-                        </h5>
-                        <p class='p-md'>Universities</p>
-
-                    </div>
-                </div><!-- STATISTIC BLOCK  -->
-                <div class="col-md-6 col-lg-3">
-                    <div class="statistic-block icon-sm">
-
-                    <i class="fas fa-globe" style="font-size: 80px; color: #D33234;"></i>
-                        <!-- Text -->
-                        <h5 class="primary-color">
-                            <span class="count-element">81</span>
-                        </h5>
-                        <p class='p-md'>Countries</p>
-
-                    </div>
-                </div><!-- STATISTIC BLOCK  -->
-                <div class="col-md-6 col-lg-3">
-                    <div class="statistic-block icon-sm">
-
-                    <i class="fas fa-plane" style="font-size: 80px; color: #D33234;"></i>
-                        <!-- Text -->
-                        <h5 class="primary-color">
-                            <span class="count-element">969</span>
-                        </h5>
-                        <p class='p-md'>Immigrations</p>
-
-                    </div>
-                </div><!-- STATISTIC BLOCK  -->
-
-            </div> <!-- End row -->
-        </div> <!-- End container -->
-    </div>
-
-
 
 
 @include('footer');

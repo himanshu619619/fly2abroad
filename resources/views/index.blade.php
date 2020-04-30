@@ -119,109 +119,7 @@
         </div> <!-- End container -->
     </section>
 
-
-
-    <section class="wide-70 service-section service-4" id="service-4">
-
-        <!-- SECTION TITLE -->
-        <div class="row">
-            <div class="col-md-12 section-title center">
-
-
-                <h2 class='h2-xs'> Our Services</h2><!-- Title -->
-                <p class='p-md'>Cursus porta, feugiat primis in ultrice ligula risus auctor tempus dolor feugiat, felis
-                    lacinia risus interdum auctor id viverra dolor iaculis luctus placerat and massa</p><!-- Text -->
-
-            </div>
-        </div>
-
-        <div class="container">
-
-
-            <div class="row">
-                <div class="col-md-6 col-lg-4">
-                    <div class="sbox-4 icon-sm">
-                        <a href="">
-
-                            <div class="sbox-4-icon primary-color"><i class="fas fa-plane" style="font-size: 50px;"></i></div>
-
-                            <div class="sbox-4-txt">
-                                <h5 class='h5-md'>Immigration</h5>
-                                <p>We provide the leading Immigration & Visa Service assistance in India along with rich & immense experience in client servicing.</p>
-                            </div><!-- Text -->
-
-                        </a>
-                    </div>
-                </div><!-- SERVICE BOX -->
-                <div class="col-md-6 col-lg-4">
-                    <div class="sbox-4 icon-sm">
-                        <a href="/business-immigration/">
-
-                            <div class="sbox-4-icon primary-color"><i class="fab fa-cc-visa" style="font-size: 50px;"></i></div>
-
-                            <div class="sbox-4-txt">
-                                <h5 class='h5-md'>Visa Assistance</h5>
-                                <p>We are an intergrated visa Service group, offering wide range of study & employment services.</p>
-                            </div><!-- Text -->
-
-                        </a>
-                    </div>
-                </div><!-- SERVICE BOX -->
-                <div class="col-md-6 col-lg-4">
-                    <div class="sbox-4 icon-sm">
-                        <a href="/skilled-immigration/">
-
-                            <div class="sbox-4-icon primary-color"><i class="fas fa-user-graduate" style="font-size: 50px;"></i></div>
-
-                            <div class="sbox-4-txt">
-                                <h5 class='h5-md'>Student Visa </h5>
-                                <p>
-We are an intergrated Student Visa Service group, offering wide range of study & employment services.
-
-students imigration</p>
-                            </div><!-- Text -->
-
-                        </a>
-                    </div>
-                </div><!-- SERVICE BOX -->
-                <div class="col-md-6 col-lg-4">
-                    <div class="sbox-4 icon-sm">
-                        <a href="/spouse-family-visas/">
-
-                            <div class="sbox-4-icon primary-color"><i class="fas fa-suitcase" style="font-size: 50px;"></i></div>
-
-                            <div class="sbox-4-txt">
-                                <h5 class='h5-md'>Tours & Travel Services</h5>
-                                <p>We offer value for money packages, luxury packages, group departures as well as customized packages.
-
-tours & travel</p>
-                            </div><!-- Text -->
-
-                        </a>
-                    </div>
-                </div><!-- SERVICE BOX -->
-                <div class="col-md-6 col-lg-4">
-                    <div class="sbox-4 icon-sm">
-                        <a href="/tourist-visitor-visas/">
-
-                            <div class="sbox-4-icon primary-color"><i class="fas fa-vihara" style="font-size: 50px;"></i></div>
-
-                            <div class="sbox-4-txt">
-                                <h5 class='h5-md'>EB 5 Services</h5>
-                                <p>Prospecting  We  for EB5 visa program has been the easiest and fastest way to get US Green Card, takes ~24 months for Indians*.
-
-eb-5</p>
-                            </div><!-- Text -->
-
-                        </a>
-                    </div>
-                </div><!-- SERVICE BOX -->
-             
-            </div> <!-- End row -->
-
-
-        </div> <!-- End container -->
-    </section>
+    @include('ourservies');
 
     <div class="section-divider">
         <div class="container">
@@ -238,7 +136,7 @@ eb-5</p>
             <div class="row d-flex align-items-center">
                 <div class="col-md-6">
                     <div class="about-img about-2-img text-center mb-40">
-                        <img class="img-fluid" src="{{asset('public/themes/immiex/images/image-03.png')}}"
+                        <img class="img-fluid" src="{{asset('public/images/image-03.png')}}"
                             alt="about-image" />
                         
                     </div>
@@ -279,7 +177,7 @@ eb-5</p>
             <div class="row d-flex flex-row-reverse align-items-center">
                 <div class="col-lg-5 col-xl-5 offset-xl-1">
                     <div class="about-img about-4-img text-center ">
-                        <img class="img-fluid" src="{{asset('public/themes/immiex/images/image-04.png')}}"
+                        <img class="img-fluid" src="{{asset('public/images/image-04.png')}}"
                             alt="about-image" />
                     </div>
                 </div>
@@ -421,7 +319,7 @@ eb-5</p>
 
                         <!-- Flag -->
                         <div class="country-flag">
-                            <img class="img-fluid" src="{{asset('public/uploads/2020/03/australia.png')}}"
+                            <img class="img-fluid" src="{{asset('public/images/australia.png')}}"
                                 alt="Australia">
                             <h5 class='h5-xl darkblue-color'>Australia</h5>
                         </div>
@@ -439,7 +337,7 @@ eb-5</p>
 
                         <!-- Flag -->
                         <div class="country-flag">
-                            <img class="img-fluid" src="{{asset('public/uploads/2020/03/canada.png')}}" alt="Canada">
+                            <img class="img-fluid" src="{{asset('public/images/canada.png')}}" alt="Canada">
                             <h5 class='h5-xl darkblue-color'>Canada</h5>
                         </div>
 
@@ -457,7 +355,7 @@ eb-5</p>
 
                         <!-- Flag -->
                         <div class="country-flag">
-                            <img class="img-fluid" src="{{asset('public/uploads/2020/03/united-kingdom.png')}}"
+                            <img class="img-fluid" src="{{asset('public/images/united-kingdom.png')}}"
                                 alt="United Kingdom">
                             <h5 class='h5-xl darkblue-color'>United Kingdom</h5>
                         </div>
@@ -475,7 +373,7 @@ eb-5</p>
 
                         <!-- Flag -->
                         <div class="country-flag">
-                            <img class="img-fluid" src="{{asset('public/uploads/2020/03/new-zealand.png')}}"
+                            <img class="img-fluid" src="{{asset('public/images/new-zealand.png')}}"
                                 alt="New Zealand">
                             <h5 class='h5-xl darkblue-color'>New Zealand</h5>
                         </div>
@@ -493,7 +391,7 @@ eb-5</p>
 
                         <!-- Flag -->
                         <div class="country-flag">
-                            <img class="img-fluid" src="{{asset('public/uploads/2020/03/singapore.png')}}"
+                            <img class="img-fluid" src="{{asset('public/images/singapore.png')}}"
                                 alt="Singapore">
                             <h5 class='h5-xl darkblue-color'>Singapore</h5>
                         </div>
@@ -511,7 +409,7 @@ eb-5</p>
 
                         <!-- Flag -->
                         <div class="country-flag">
-                            <img class="img-fluid" src="{{asset('public/uploads/2020/03/usa.png')}}" alt="USA">
+                            <img class="img-fluid" src="{{asset('public/images/usa.png')}}" alt="USA">
                             <h5 class='h5-xl darkblue-color'>USA</h5>
                         </div>
 
@@ -558,49 +456,49 @@ eb-5</p>
 
                 <div id="bl-01" class="col-sm-6 col-md-3  b-bottom  b-right">
                     <div class="brand-logo">
-                        <img class="img-fluid" src="{{asset('public/themes/immiex/images/brand-1.png')}}"
+                        <img class="img-fluid" src="{{asset('public/images/brand-1.png')}}"
                             alt="brand-logo">
                     </div>
                 </div>
                 <div id="bl-02" class="col-sm-6 col-md-3  b-bottom  b-right">
                     <div class="brand-logo">
-                        <img class="img-fluid" src="{{asset('public/themes/immiex/images/brand-2.png')}}"
+                        <img class="img-fluid" src="{{asset('public/images/brand-2.png')}}"
                             alt="brand-logo">
                     </div>
                 </div>
                 <div id="bl-03" class="col-sm-6 col-md-3  b-bottom  b-right">
                     <div class="brand-logo">
-                        <img class="img-fluid" src="{{asset('public/themes/immiex/images/brand-3.png')}}"
+                        <img class="img-fluid" src="{{asset('public/images/brand-3.png')}}"
                             alt="brand-logo">
                     </div>
                 </div>
                 <div id="bl-04" class="col-sm-6 col-md-3  b-bottom ">
                     <div class="brand-logo">
-                        <img class="img-fluid" src="{{asset('public/themes/immiex/images/brand-4.png')}}"
+                        <img class="img-fluid" src="{{asset('public/images/brand-4.png')}}"
                             alt="brand-logo">
                     </div>
                 </div>
                 <div id="bl-05" class="col-sm-6 col-md-3   b-right">
                     <div class="brand-logo">
-                        <img class="img-fluid" src="{{asset('public/themes/immiex/images/brand-5.png')}}"
+                        <img class="img-fluid" src="{{asset('public/images/brand-5.png')}}"
                             alt="brand-logo">
                     </div>
                 </div>
                 <div id="bl-06" class="col-sm-6 col-md-3   b-right">
                     <div class="brand-logo">
-                        <img class="img-fluid" src="{{asset('public/themes/immiex/images/brand-6.png')}}"
+                        <img class="img-fluid" src="{{asset('public/images/brand-6.png')}}"
                             alt="brand-logo">
                     </div>
                 </div>
                 <div id="bl-07" class="col-sm-6 col-md-3   b-right">
                     <div class="brand-logo">
-                        <img class="img-fluid" src="{{asset('public/themes/immiex/images/brand-7.png')}}"
+                        <img class="img-fluid" src="{{asset('public/images/brand-7.png')}}"
                             alt="brand-logo">
                     </div>
                 </div>
                 <div id="bl-08" class="col-sm-6 col-md-3  ">
                     <div class="brand-logo">
-                        <img class="img-fluid" src="{{asset('public/themes/immiex/images/brand-8.png')}}"
+                        <img class="img-fluid" src="{{asset('public/images/brand-8.png')}}"
                             alt="brand-logo">
                     </div>
                 </div><!-- BRAND LOGO IMAGE -->

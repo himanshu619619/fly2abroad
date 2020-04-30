@@ -148,14 +148,17 @@ var pplv = {"ajaxurl":"http:\/\/jthemes.org\/wp\/immiex\/wp-admin\/admin-ajax.ph
 		<!-- Infotmation -->
 		<div class="headertopleft">			     			
 			<div class="header-info clearfix">
-				<span class="txt-400"><i class="fas fa-map-marker-alt"></i>Suite 208
-7928 128 street 
-Surrey, BC V3W 4E8 canada </span>	    	</div>
+				<span class="txt-400">
+				  <i class="fas fa-map-marker-alt"></i >
+			<!--	Suite 2087928 128 street 
+Surrey, BC V3W 4E8 canada --> INDIA | CANADA
+ </span>	    	
+ </div>
 		</div>
 
 			<!-- Contacts -->
 	    <div class="headertopright header-contacts">
-	    	<a href="tel:61234567890" class="callusbtn txt-400"><i class="fas fa-phone"></i>+1(778) 929 9866</a>
+	    	<a href="tel:+91-9654188876" class="callusbtn txt-400"><i class="fas fa-phone"></i>+91-9654188876</a>
 			<!-- <a href="tel:61278903456" class="callusbtn b-right txt-400 pl-2"><i class="fas fa-phone"></i>+61-2 7890 3456</a> -->
 			
 			<a href="mailto:support@fly2abroad.com" class="callusbtn txt-400"><i class="far fa-envelope-open"></i>support@fly2abroad.com</a>	  	</div>
@@ -171,11 +174,11 @@ Surrey, BC V3W 4E8 canada </span>	    	</div>
 
 	
 	<ul id="menu-primary" class="wsmenu-list"><li id="menu-item-15" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home current-menu-ancestor current-menu-parent menu-item-has-children menu-item-15">
-	<a class="{{url('/')}}"  href="">Home</a>
+	<a class=""  href="{{url('/')}}">Home</a>
 
 </li>
 <li id="menu-item-816" class="menu-item menu-item-type-post_type menu-item-object-megamenu menu-item-816 nl-simple dropdown-menu-item">
-	<a class=""  href="{{url('/about')}}">Abous Us</a><div class="wsmegamenu clearfix">
+	<a class=""  href="{{url('/about')}}">Abous Us</a><div class=" clearfix">
 </li>
 <li id="menu-item-858" class="menu-item menu-item-type-post_type menu-item-object-megamenu menu-item-858 nl-simple dropdown-menu-item">
 	<a class=""  href="{{url('/services')}}">Services<span class="wsarrow"></span></a><div class="wsmegamenu clearfix">

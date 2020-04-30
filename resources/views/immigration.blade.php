@@ -1,81 +1,71 @@
-@include('header')
+@include('header');
 
-<section class="bg-lightgrey wide-100 contacts-section contacts-4 bg-tra-city" id="contacts-4"
-    data-scroll_id="contacts-4">
-    <div class="container">
+<section class="wide-60 about-section about-2" id="about-2">
+        <div class="container">
 
-        <div class="row d-flex align-items-center">
-
-
-
-            <div class="col-md-12 section-title center">
-                <!-- SECTION TITLE -->
-
-
-                <h2 class='h2-xs'>Have Questions? Get in Touch</h2><!-- Title -->
-
-
-                <p class='p-md'></p><!-- Text -->
-
-            </div>
-        </div> <!-- END SECTION TITLE -->
-
-        <div class="row">
-
-            <div class="col-lg-5">
-                <div class="contact-boxes">
-
-
-
-
-                    <div class="contact-box icon-xs clearfix mb-25">
-
-
-                        <div class="contact-box-icon"><span class="flaticon-235-mail"></span></div><!-- Icon -->
-
-
-                        <div class="contact-box-txt">
-                            <h5 class="h5-xs deepblue-color">Suite 208 7928 128 street Surrey,</h5>
-                            <h5 class="h5-xs deepblue-color"> BC V3W 4E8 canada</h5>
-                            <p class="grey-color">Our Location</p><!-- Text -->
-                        </div><!-- EMAIL -->
-
+            <div class="row d-flex align-items-center">
+                <div class="col-md-6">
+                    <div class="about-img about-2-img text-center mb-40">
+                        <img class="img-fluid" src="{{asset('public/images/image-03.png')}}"
+                            alt="about-image" />
+                        
                     </div>
-                    <div class="contact-box icon-xs clearfix mb-25">
-
-
-                        <div class="contact-box-icon"><span class="flaticon-172-telephone-1"></span></div><!-- Icon -->
-
-
-                        <div class="contact-box-txt">
-                            <h5 class="h5-xs deepblue-color">P: +1(778) 929 9866</h5>
-
-                            <p class="grey-color">Let&#039;s Talk</p><!-- Text -->
-                        </div><!-- EMAIL -->
-
+                </div>
+                <div class="col-md-6">
+                    <div class="about-2-txt pc-20 mb-40">
+                        <span class='section-id id-color'></span>
+                        <h3 class='h3-lg darkblue-color'>Select one of your dream country with us</h3>
+                        <div class="box-list">
+                            <div class="box-list-icon"><i class="fas fa-genderless"></i></div>
+                            <p>Immigration to other countries from your native land is not an apple pie. You need to show that you are competent enough to be able to enter your dream country whether it is Canada, Australia, UK, USA, New Zealand or be it any other country in a legal manner, and able to settle there well. </p>
+                        </div>
+                        <div class="box-list">
+                            <div class="box-list-icon"><i class="fas fa-genderless"></i></div>
+                            <p>We is always there for you to support you at each step, which you march towards fulfilling your long cherished dream. Ranging from the initial analysis of your profile to getting ready and submitting your file and eventually to help you in meeting all the obligatory necessities once you land in your dream country, you may get one stop resolution to any or all your immigration desires. </p>
+                        </div>
+                        <div class="box-list">
+                            <div class="box-list-icon"><i class="fas fa-genderless"></i></div>
+                            <p>Whether you would like to choose us for a PR Visa with Job Assistance Program, permanent residency, visa for skillful employees or investment visa, Express Entry Consultation, Federal Skilled Worker Program, you may get all the help that’s required. </p>
+                        </div>
                     </div>
-                    <div class="contact-box icon-xs clearfix ">
+                </div> <!-- END ABOUT TEXT	-->
+            </div> <!-- End row -->
+        </div> <!-- End container -->
+    </section>
 
 
-                        <div class="contact-box-icon"><span class="flaticon-235-mail"></span></div><!-- Icon -->
 
+    <section class="bg-lightgrey pt-100 about-section about-4 bg-tra-city" id="about-4">
+        <div class="container">
 
-                        <div class="contact-box-txt">
-                            <h5 class="h5-xs deepblue-color"><a
-                                    href="mailto:http://hello@domain.com">support@fly2abroad.com</a></h5>
-
-                            <p class="grey-color">Drop a Line</p><!-- Text -->
-                        </div><!-- EMAIL -->
-
-                    </div>
+            <div class="row align-items-center">
+                <div class="col-lg-6 col-xl-6 text-center ">
+                   
+<img src="" alt="">
+<h1>USA</h1> 
+<p>The EB5 Visa Program is undoubtedly the easiest and fastest way to get your US Green Card. India is a fast-growing market for EB5 applicants, seeking to migrate to the United States for educational, business and career opportunities not only for themselves but their families and children too.</p>
 
                 </div>
-            </div>
+                <div class="col-lg-6 col-xl-6  text-center">
+                    <div class="about-4-txt pc-20 mb-40">
 
+                    <img src="" alt="">
+<h1>Canada</h1> 
+<p>Team Invictus is one of the biggest names in Immigration Consultancy in India. Established in Canada, the company has registered exponential growth thanks to the surge of immigrants to international destinations from all over the country in the past few years.</p>
+                        
+                    </div>
+                </div> <!-- END ABOUT TEXT	-->
+            </div> <!-- End row -->
+        </div> <!-- End container -->
+    </section>
 
-            <!-- CONTACT FORM -->
+<section class="bg-lightgrey pt-100  pb-100 about-section about-4 bg-tra-city">
+<div class="row">
 
-            <div class="col-lg-7">
+<div class="col-lg-3">
+</div>
+<div class="col-lg-6">
+<h1 style="text-align:center; " class="pt-20 pb-20">IMMIGRATION</h1>
                 <div role="form" class="wpcf7" id="wpcf7-f535-p532-o1" lang="en-US" dir="ltr">
                     <div class="screen-reader-response"></div>
                     <form action="{{url('sendmail/contact')}}" method="post" class="wpcf7-form" novalidate="novalidate">
@@ -148,37 +138,12 @@
                 </div>
             </div> <!-- END CONTACT FORM -->
 
+            <div class="col-lg-3">
+</div>
+</div>
 
-
-        </div> <!-- End row -->
-    </div> <!-- End container -->
 </section>
 
 
 
-<section class="cta-section cta-4 bg-fixed" id="cta-4">
-    <div class="container white-color">
-        <div class="row d-flex align-items-center">
-
-
-            <!-- CALL TO ACTION TEXT -->
-            <div class="col-md-8 col-lg-7 offset-md-4 offset-lg-5">
-
-                <!-- Title  -->
-                <div class="cta-txt">
-                    <h3 class='h3-xl'>Consultations for prospective immigration</h3><!-- Title -->
-
-                    <a class='btn btn-arrow btn btn-md btn-primary tra-white-hover btn-arrow btn-md btn-primary'
-                        href="{{url('/contact')}}"><span>Get Consultation <i class='fas fa-arrow-right'></i></span></a>
-                    <!-- Button  -->
-                </div>
-
-            </div>
-
-        </div> <!-- End row -->
-    </div> <!-- End container -->
-</section>
-
-
-
-@include('footer')
+@include('footer');

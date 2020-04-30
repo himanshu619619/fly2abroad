@@ -8,6 +8,9 @@
 		Phone : {{$details['phone']}} <br>
 		Visa  : {{$details['visa']}}<br>
 		Email : {{$details['email']}}<br>
+		
+		Message : {{$details['message']}}
+		
 		</p>
 		</td>
 	</tr>
