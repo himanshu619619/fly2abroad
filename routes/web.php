@@ -38,7 +38,14 @@ Route::get('/visa-assistance', function(){
 
     return view('visa-assistance');
 });
+Route::get('/helping-in-business', function(){
 
+    return view('helping-in-business');
+});
+
+Route::get('/eb-5', function(){
+  return view('eb-5');
+});
 Route::Post('/sendmail/send', 'SendEmailController@send');
 Route::Post('/sendmail/contact', 'SendEmailController@contact');
 

@@ -178,7 +178,7 @@ Surrey, BC V3W 4E8 canada --> INDIA | CANADA
 
 </li>
 <li id="menu-item-816" class="menu-item menu-item-type-post_type menu-item-object-megamenu menu-item-816 nl-simple dropdown-menu-item">
-	<a class=""  href="{{url('/about')}}">Abous Us</a><div class=" clearfix">
+	<a class=""  href="{{url('/about')}}">About Us</a><div class=" clearfix">
 </li>
 <li id="menu-item-858" class="menu-item menu-item-type-post_type menu-item-object-megamenu menu-item-858 nl-simple dropdown-menu-item">
 	<a class=""  href="{{url('/services')}}">Services<span class="wsarrow"></span></a><div class="wsmegamenu clearfix">
@@ -189,8 +189,10 @@ Surrey, BC V3W 4E8 canada --> INDIA | CANADA
 	<li><a href="{{url('/immigration')}}" title="Student Visa Assessment">Immigration</a></li>
 	<li><a href="{{url('/visa-assistance')}}" title="Working Visa Assessment">Visa Assistance</a></li>
 	<li><a href="{{url('/students-immigration')}}" title="Business Visa Assessment">Student Visa </a></li>
-	<li><a href="{{url('/tour-travel')}}" title="PR Visa Assessment">Tours & Travel Services</a></li>
 	<li><a href="{{url('/eb-5')}}" title="Visa Eligibility Assessment">EB 5 Services</a></li>
+	<li><a href="{{url('/tour-travel')}}" title="PR Visa Assessment">Tours & Travel Services</a></li>
+	
+	<li><a href="{{url('/helping-in-business')}}" title="Visa Eligibility Assessment">Helping in Business Expansion</a></li>
 </ul></div>
 
 

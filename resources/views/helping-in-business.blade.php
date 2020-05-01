@@ -6,7 +6,7 @@
             <div class="row center text-center align-items-center">
                 <div class="col-md-12">
                     <div class="about-img about-2-img text-center mb-40">
-                        <img class="img-fluid" src="{{asset('public/images/travel.jpg')}}"
+                        <img class="img-fluid" src="{{asset('public/images/helping.jpg')}}"
                             alt="about-image"  style="width: 100%;"/>
                         
                     </div>
@@ -25,7 +25,7 @@
                 <div class="col-lg-12 col-xl-12 text-center ">
                    
 <img src="" alt="">
-<h1>Tours & Travel Services</h1> 
+<h1>Helping in Business Expansion</h1> 
 <p>We provide you a customized and flexible tour packages all over the World. Customer Relationship Management has been a key focus area since the inception of the company and has helped us to grow considerably in a tightrope market. We understand that each tourist is different from the other not only in attributes but also in expectation and motive. This helps us to serve our clients better by upgrading the simple tasks to special just by applying a little imagination and offering on time solutions for any tour-related problem.</p>
 
 
@@ -41,7 +41,7 @@
 <div class="col-lg-3">
 </div>
 <div class="col-lg-6">
-<h1 style="text-align:center; " class="pt-20 pb-20">Tour And Travel Services</h1>
+<h1 style="text-align:center; " class="pt-20 pb-20">Helping in Business Expansion</h1>
                 <div role="form" class="wpcf7" id="wpcf7-f535-p532-o1" lang="en-US" dir="ltr">
                     <div class="screen-reader-response"></div>
                     <form action="{{url('sendmail/contact')}}" method="post" class="wpcf7-form" novalidate="novalidate">

@@ -85,7 +85,25 @@ tours & travel</p>
 
                             <div class="sbox-4-txt">
                                 <h5 class='h5-md'>EB 5 Services</h5>
-                                <p>Prospecting  We  for EB5 visa program has been the easiest and fastest way to get US Green Card, takes ~24 months for Indians*.
+                                <p>Prospecting  We  for EB5 visa program has been the easiest and fastest way to get US Green Card, takes ~24 months.
+
+eb-5</p>
+                            </div><!-- Text -->
+
+                        </a>
+                    </div>
+                </div><!-- SERVICE BOX -->
+
+
+                <div class="col-md-6 col-lg-4">
+                    <div class="sbox-4 icon-sm">
+                        <a href="{{url('/eb-5')}}">
+
+                            <div class="sbox-4-icon primary-color"><i class="fas fa-vihara" style="font-size: 50px;"></i></div>
+
+                            <div class="sbox-4-txt">
+                                <h5 class='h5-md'>Helping in Business Expansion</h5>
+                                <p>Prospecting  We  for Business Expansion has been the easiest and fastest way to get US Green Card, takes ~24 months.
 
 eb-5</p>
                             </div><!-- Text -->
