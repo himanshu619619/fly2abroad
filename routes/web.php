@@ -43,12 +43,27 @@ Route::get('/helping-in-business', function(){
     return view('helping-in-business');
 });
 
+Route::get('/career', function(){
+
+    return view('career');
+});
+
+Route::get('/privacy-policy', function(){
+
+    return view('privacy-policy');
+});
+
+Route::get('/terms-and-condition', function(){
+
+    return view('terms-and-condition');
+});
+
 Route::get('/eb-5', function(){
   return view('eb-5');
 });
 Route::Post('/sendmail/send', 'SendEmailController@send');
 Route::Post('/sendmail/contact', 'SendEmailController@contact');
-
+Route::Post('/sendmail/career', 'SendEmailController@career');
 Route::Post('/contact', 'SendEmailController@contact');
 // Route::get('/contact','MainController@contact');
 Route::get('/services','MainController@services');

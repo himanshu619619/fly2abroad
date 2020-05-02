@@ -198,9 +198,9 @@ Surrey, BC V3W 4E8 canada --> INDIA | CANADA
 
 </li>
 <li id="menu-item-17" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17 nl-simple">
-	<a class=""  href="">Careers</a></li>
+	<a class=""  href="{{url('/career')}}">Careers</a></li>
 <li id="menu-item-427" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-427 nl-simple">
-	<a class=""  href="">FAQs</a></li>
+	<a class=""  href="{{url('/privacy-policy')}}">Privacy Policy</a></li>
 <li class="nl-simple header-btn"><a target="_blank" href="{{url('/contact')}}" title="Get Started" class="btn-primary btn-type-dark">Contact US</a></li></ul>
   	
     
