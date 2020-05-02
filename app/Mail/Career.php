@@ -30,7 +30,7 @@ class Career extends Mailable
     {
         return $this->from('himanshu@7continentsmedia.com','fly2abroad')
         ->to('himanshu@7continentsmedia.com',$this->details['name'])
-        ->subject('contact has been successfully Submit')
+        ->subject('Career form has been successfully Submit')
         ->view('EMailer.careeremail');
     }
 }

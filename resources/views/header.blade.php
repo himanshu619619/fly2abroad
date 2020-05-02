@@ -151,7 +151,7 @@ var pplv = {"ajaxurl":"http:\/\/jthemes.org\/wp\/immiex\/wp-admin\/admin-ajax.ph
 				<span class="txt-400">
 				  <i class="fas fa-map-marker-alt"></i >
 			<!--	Suite 2087928 128 street 
-Surrey, BC V3W 4E8 canada --> INDIA | CANADA
+Surrey, BC V3W 4E8 canada --><a href="#footer-2">INDIA | CANADA</a>
  </span>	    	
  </div>
 		</div>

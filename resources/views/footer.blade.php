@@ -52,7 +52,7 @@
 						<div class="col-lg-4 col-xl-3">
 				<div class="footer-links mb-40">
 				
-					<h5 class='h5-md'>Contact Us</h5><!-- Title -->
+					<h5 class='h5-md'>Imprortant Links</h5><!-- Title -->
 
 					<!-- Footer Links -->
 					<ul class="foo-links clearfix">
