@@ -6,6 +6,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<link rel="icon" sizes="60x60" href="{{asset('public/images/favicon.png')}}">
 				<script>document.documentElement.className = document.documentElement.className + ' yes-js js_active js'</script>
 			<script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
 <title> Fly 2 Abroad</title>
