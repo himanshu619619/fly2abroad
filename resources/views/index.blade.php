@@ -178,7 +178,7 @@
             <div class="row d-flex flex-row-reverse align-items-center">
                 <div class="col-lg-5 col-xl-5 offset-xl-1">
                     <div class="about-img about-4-img text-center ">
-                        <img class="img-fluid" src="{{asset('public/images/image-04.png')}}"
+                        <img class="img-fluid" src="{{asset('public/images/immigration.jpg')}}"
                             alt="about-image" />
                     </div>
                 </div>
