@@ -26,7 +26,7 @@
                    
 <img src="" alt="">
 <h1>AUSTRALIA</h1> 
-<p>Australia offers a diverse range of study options for international students, with more than 1,200 institutions and over 22,000 courses to choose from.</p>
+<p>Australia offers a various scope of study choices for worldwide understudies, with in excess of 1,200 organizations and more than 22,000 courses to browse</p>
 
 
                 </div>
@@ -35,7 +35,7 @@
 
                     <img src="" alt="">
 <h1>CANADA</h1> 
-<p>Apply & Study in top & renowned universities in Canada as an international student, extend your study permit & find out about employment routes while you study or after you graduate.</p>
+<p>Apply and Study in top and prestigious colleges in Canada as a worldwide understudy, broaden your examination license and get some answers concerning work courses while you study or after you graduate.</p>
                         
                     </div>
                 </div> <!-- END ABOUT TEXT	-->
@@ -45,7 +45,7 @@
 
                     <img src="" alt="">
 <h1>EUROPE</h1> 
-<p>Assisting students in selecting and making effective admission applications to European universities.</p>
+<p>Helping understudies in choosing and making powerful confirmation applications to European colleges.</p>
                         
                     </div>
                 </div> <!-- END ABOUT TEXT	-->
@@ -55,7 +55,7 @@
 
                     <img src="" alt="">
                     <h1>USA</h1> 
-<p>Discover the perfect course and college for you, based on your profile strength, & your preferences.</p>
+<p>Find the ideal course and school for you, in view of your profile quality, and your inclinations.</p>
                         
                     </div>
                 </div> <!-- END ABOUT TEXT	-->
@@ -64,7 +64,8 @@
 
                     <img src="" alt="">
 <h1>ASIA</h1> 
-<p>Asia’s consistent economic growth, urban development and educational reform means growing opportunities.</p>
+<p>Asia's steady monetary development, urban turn of events and instructive change implies developing chances.
+</p>
                         
                     </div>
                 </div> <!-- END ABOUT TEXT	-->

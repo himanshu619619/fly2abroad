@@ -1,3 +1,4 @@
+@section('title', 'Fly 2 Abroad')
 @include('header')
 <div id="post-174"
     class="page-content post-174 page type-page status-publish hentry no-post-thumbnail single-page-details">
@@ -19,12 +20,12 @@
                         <!-- Text Box #1 -->
                         <div class="box-list">
                             <div class="box-list-icon"><i class="fas fa-genderless"></i></div>
-                            <p class="p-md">We was established in India with the aim to holistically cater to the immigration needs of the candidates.</p>
+                            <p class="p-md">We was built up in India with the intend to comprehensively take into account the migration needs of the competitors.</p>
                         </div>
 
                         <div class="box-list">
                             <div class="box-list-icon"><i class="fas fa-genderless"></i></div>
-                            <p class="p-md">Having a rich track record of successfully processing of over 50,000 applications; thus upon research about our organisation you would find that we are amongst the best immigration service provider in India.</p>
+                            <p class="p-md">Having a rich reputation of effectively handling of more than Thousands applications; subsequently upon examine about our association you would find that we are among the best movement specialist co-op in India.</p>
                         </div>
 
 
@@ -188,15 +189,11 @@
                             2009</h3>
                         <div class="box-list">
                             <div class="box-list-icon"><i class="fas fa-genderless"></i></div>
-                            <p>An magnis nulla dolor sapien augue erat iaculis purus tempor magna ipsum vitae purus
-                                primis pretium ligula rutrum luctus blandit porta justo integer. Feugiat a primis
-                                ultrice ligula</p>
+                            <p>AFly 2 Abroad  has been conveying customized answers for its regarded customers for as far back as decade and a half. Our easy to understand and straightforward method of customer managing has upset the usefulness of visa consultancies. </p>
                         </div>
                         <div class="box-list">
                             <div class="box-list-icon"><i class="fas fa-genderless"></i></div>
-                            <p>Quaerat sodales sapien undo euismod risus auctor egestas augue mauri undo viverra tortor
-                                sapien sodales sapien and vitae donec gravida donec enim blandit ipsum at porta justo
-                                integer </p>
+                            <p>We help people in migration to Canada, Australia, New Zealand, Hong Kong, Denmark, Germany, and Gulf nations. Migrating to another nation either for study or occupation isn't a simple assignment. A great deal of documentation and confirmation work should be done previously, which you can't think now. Many individuals could even lose their rest over it; in any case, you don't have to stress as our specialists are consistently close to you to help on each progression of the procedure </p>
                         </div>
                         <a class='btn btn-arrow btn-md btn-primary' href='tel:+1(778) 929 9866'><span>Call: +1(778) 929 9866<i
                                     class='fas fa-arrow-right'></i></span></a>

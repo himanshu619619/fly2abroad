@@ -26,7 +26,7 @@
                    
 <img src="" alt="">
 <h1>EB-5 Services</h1> 
-<p>The EB-5 program, created by Congress in 1990 to stimulate the U.S. economy through job creation and capital investment by foreign investors. Under a program initially enacted as a pilot in 1992, and regularly reauthorized since then, investors may also qualify for EB-5 classification by investing through regional centers based on proposals for promoting economic growth .</p>
+<p>The EB-5 program, created by Congress in 1990 to stimulate the U.S. economy through job creation and capital investment by foreign investors. Under a program initially enacted as a pilot in 1992, and regularly reauthorized since then, investors may also qualify for EB-5 classification by investing through regional centers based on proposals for promoting economic growth.</p>
 
 <strong>The fastest and easiest way to get your US Citizenship.</strong>
 <p>The Visa Program is undoubtedly the easiest and fastest way to get your US Green Card. India is a fast-growing market for  applicants, seeking to migrate to the United States for educational, business and career opportunities not only for themselves but for their families and children too.</p>

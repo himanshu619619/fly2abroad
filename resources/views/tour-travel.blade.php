@@ -26,7 +26,7 @@
                    
 <img src="" alt="">
 <h1>Tours & Travel Services</h1> 
-<p>We provide you a customized and flexible tour packages all over the World. Customer Relationship Management has been a key focus area since the inception of the company and has helped us to grow considerably in a tightrope market. We understand that each tourist is different from the other not only in attributes but also in expectation and motive. This helps us to serve our clients better by upgrading the simple tasks to special just by applying a little imagination and offering on time solutions for any tour-related problem.</p>
+<p>Fly 2 Abroad  gives you a redid and adaptable visit bundles everywhere throughout the World. Client Relationship Management has been a key center region since the initiation of the organization and has helped us to develop impressively in a tightrope advertise. We comprehend that every traveler is not quite the same as the other in qualities as well as in desire and thought process. This encourages us to serve our customers better by overhauling the basic assignments to unique just by applying a little creative mind and offering on time answers for any visit related issue.</p>
 
 
                 </div>

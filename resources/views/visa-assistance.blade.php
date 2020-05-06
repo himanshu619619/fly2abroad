@@ -1,3 +1,4 @@
+@section('title', 'Fly 2 Abroad')
 @include('header');
 
 <section class="wide-60 about-section about-2" id="about-2">

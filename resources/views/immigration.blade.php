@@ -17,15 +17,16 @@
                         <h3 class='h3-lg darkblue-color'>Select one of your dream country with us</h3>
                         <div class="box-list">
                             <div class="box-list-icon"><i class="fas fa-genderless"></i></div>
-                            <p>Immigration to other countries from your native land is not an apple pie. You need to show that you are competent enough to be able to enter your dream country whether it is Canada, Australia, UK, USA, New Zealand or be it any other country in a legal manner, and able to settle there well. </p>
+                            <p>IMigration to different nations from your local land isn't a crusty fruit-filled treat. You have to demonstrate that you are sufficiently equipped to have the option to enter your fantasy nation whether it is Canada, Australia, UK, USA, New Zealand or be it some other nation in a lawful way, and ready to settle there well.  </p>
                         </div>
                         <div class="box-list">
                             <div class="box-list-icon"><i class="fas fa-genderless"></i></div>
-                            <p>We is always there for you to support you at each step, which you march towards fulfilling your long cherished dream. Ranging from the initial analysis of your profile to getting ready and submitting your file and eventually to help you in meeting all the obligatory necessities once you land in your dream country, you may get one stop resolution to any or all your immigration desires. </p>
+                            <p>We is consistently there for you to help you at each progression, which you walk towards satisfying your since a long time ago treasured dream. Running from the underlying examination of your profile to preparing and presenting your document and inevitably to help you in meeting all the required necessities once you land in your fantasy nation, you may get one stop goals to any or all your movement wants. 
+ </p>
                         </div>
                         <div class="box-list">
                             <div class="box-list-icon"><i class="fas fa-genderless"></i></div>
-                            <p>Whether you would like to choose us for a PR Visa with Job Assistance Program, permanent residency, visa for skillful employees or investment visa, Express Entry Consultation, Federal Skilled Worker Program, you may get all the help that’s required. </p>
+                            <p>Regardless of whether you might want to pick us for a PR Visa with Job Assistance Program, lasting residency, visa for capable representatives or speculation visa, Express Entry Consultation, Federal Skilled Worker Program, you may get all the assistance that is required. </p>
                         </div>
                     </div>
                 </div> <!-- END ABOUT TEXT	-->
@@ -43,7 +44,7 @@
                    
 <img src="" alt="">
 <h1>USA</h1> 
-<p>The EB5 Visa Program is undoubtedly the easiest and fastest way to get your US Green Card. India is a fast-growing market for EB5 applicants, seeking to migrate to the United States for educational, business and career opportunities not only for themselves but their families and children too.</p>
+<p>The EB5 Visa Program is without a doubt the most effortless and quickest approach to get your US Green Card. India is a quickly developing business sector for EB5 candidates, looking to relocate to the United States for instructive, business and profession openings for themselves as well as their families and youngsters as well</p>
 
                 </div>
                 <div class="col-lg-6 col-xl-6  text-center">
@@ -51,7 +52,7 @@
 
                     <img src="" alt="">
 <h1>Canada</h1> 
-<p>We are one of the biggest names in Immigration Consultancy in India. Established in Canada, the company has registered exponential growth thanks to the surge of immigrants to international destinations from all over the country in the past few years.</p>
+<p>Fly 2 Abroad is probably the greatest name in Immigration Consultancy in India. Built up in Canada, the organization has enlisted exponential development because of the flood of migrants to global goals from everywhere throughout the nation in the previous not many years.</p>
                         
                     </div>
                 </div> <!-- END ABOUT TEXT	-->
