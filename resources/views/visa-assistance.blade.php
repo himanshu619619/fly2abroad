@@ -17,17 +17,22 @@
                         <span class='section-id id-color'></span>
                         <h3 class='h3-lg darkblue-color'>Visa Assistance</h3>
                         <div class="box-list">
-                            <div class="box-list-icon"><i class="fas fa-genderless"></i></div>
-                            <p>Immigration to other countries from your native land is not an apple pie. You need to show that you are competent enough to be able to enter your dream country whether it is Canada, Australia, UK, USA, New Zealand or be it any other country in a legal manner, and able to settle there well. </p>
+                           
+                            <p>Our visa consultant has extensive visa experience on visa application and will ensure that you are advised correctly; in order to increase your chances for visa approval. Dinspira’s biggest strength is its ability to get 99% of all its clients their visas on their first visa application.</p>
                         </div>
                         <div class="box-list">
-                            <div class="box-list-icon"><i class="fas fa-genderless"></i></div>
-                            <p>We is always there for you to support you at each step, which you march towards fulfilling your long cherished dream. Ranging from the initial analysis of your profile to getting ready and submitting your file and eventually to help you in meeting all the obligatory necessities once you land in your dream country, you may get one stop resolution to any or all your immigration desires. </p>
+                            
+                            <p><h4>Some of the categories of visas that we specialize in are:</h4>
+<ul style="list-style:circle;">
+<li>Visitor Visa (including services for business trips, conventions and conferences, sporting events, etc.)</li>
+<li>Student Visa/Study Permit</li>
+<li>Work permits (including post-graduation work permits, work permit for the spouse of student, etc.) </li>
+</ul>
+
+
+</p>
                         </div>
-                        <div class="box-list">
-                            <div class="box-list-icon"><i class="fas fa-genderless"></i></div>
-                            <p>Whether you would like to choose us for a PR Visa with Job Assistance Program, permanent residency, visa for skillful employees or investment visa, Express Entry Consultation, Federal Skilled Worker Program, you may get all the help that’s required. </p>
-                        </div>
+                       
                     </div>
                 </div> <!-- END ABOUT TEXT	-->
             </div> <!-- End row -->
@@ -39,26 +44,99 @@
     <section class="bg-lightgrey pt-100 about-section about-4 bg-tra-city" id="about-4">
         <div class="container">
 
-            <div class="row align-items-center">
-                <div class="col-lg-6 col-xl-6 text-center ">
+            <div class="row align-items-center text-center">
+            <h2>Our Visa assistance services are currently available for the following travel destinations:</h2>
+            <div class="col-lg-2 col-xl-3  text-center">
+                <div class="about-4-txt pc-20 mb-40 ">
                    
-<img src="" alt="">
-<h1>USA</h1> 
-<p>The EB5 Visa Program is undoubtedly the easiest and fastest way to get your US Green Card. India is a fast-growing market for EB5 applicants, seeking to migrate to the United States for educational, business and career opportunities not only for themselves but their families and children too.</p>
 
+<img src="https://img.icons8.com/color/96/000000/canada.png"/>
+<h1>Canada</h1> 
+
+</div>
                 </div>
-                <div class="col-lg-6 col-xl-6  text-center">
+                <div class="col-lg-2 col-xl-2  text-center">
                     <div class="about-4-txt pc-20 mb-40">
 
-                    <img src="" alt="">
-<h1>Canada</h1> 
-<p>We are one of the biggest names in Immigration Consultancy in India. Established in Canada, the company has registered exponential growth thanks to the surge of immigrants to international destinations from all over the country in the past few years.</p>
+                    <img src="https://img.icons8.com/color/96/000000/great-britain.png"/>
+<h1> UK</h1> 
+
+                        
+                    </div>
+                </div> <!-- END ABOUT TEXT	-->
+
+                <div class="col-lg-2 col-xl-2 text-center">
+                    <div class="about-4-txt pc-20 mb-40">
+                    <img src="https://img.icons8.com/color/96/000000/usa.png"/>
+<h1>USA</h1> 
+
+                        
+                    </div>
+                </div> <!-- END ABOUT TEXT	-->
+
+
+                <div class="col-lg-2 col-xl-2  text-center">
+                    <div class="about-4-txt pc-20 mb-40">
+
+                    <img src="https://img.icons8.com/color/96/000000/united-arab-emirates.png"/>
+<h1>U.A.E.</h1> 
+
+                        
+                    </div>
+                </div> <!-- END ABOUT TEXT	-->
+
+
+                <div class="col-lg-3 col-xl-3  text-center">
+                    <div class="about-4-txt pc-20 mb-40">
+
+                    <img src="https://img.icons8.com/color/96/000000/south-africa.png"/>
+<h1>SA
+</h1> 
+
                         
                     </div>
                 </div> <!-- END ABOUT TEXT	-->
             </div> <!-- End row -->
         </div> <!-- End container -->
     </section>
+
+
+    <section class="wide-60 about-section about-2" id="about-2">
+        <div class="container">
+
+            <div class="row d-flex align-items-center">
+              
+                <div class="col-md-12">
+                    <div class="about-2-txt pc-20 mb-40">
+                        <span class='section-id id-color'></span>
+                        <h3 class='h3-lg darkblue-color'>A few of what our visa assistance services entail are:</h3>
+                        
+                        <div class="box-list">
+                            
+                           
+<ul style="list-style:circle;">
+<li>Advice clients on the necessary documents required to apply for your visa</li>
+<li> Check your visa application documents.</li>
+<li>Guide you on all aspects of the visa process</li>
+<li> Assist with filling the visa application form.</li>
+<li>Schedule visa appointment for you (optional)</li>
+<li>Update you on any changes in visa rules and regulations.</li>
+<li>If applicable, assist with booking your medical examination/test</li>
+<li>Provide full support in preparing you for the interview. If your visa application involves a visa interview. We will advise you on the likely format and examples of questions that you may be asked</li>
+<li>With our excellent visa success rate of 99%, in the unfortunate event that your visa application is refused; we will examine the reasons provided and advise you on the next course of action (e.g. reapply after addressing the visa officer’s concern, appeal the decision, proceed with a judicial review, etc)</li>
+</ul>
+
+
+
+                        </div>
+                       
+                    </div>
+                </div> <!-- END ABOUT TEXT	-->
+            </div> <!-- End row -->
+        </div> <!-- End container -->
+    </section>
+
+
 
 <section class="bg-lightgrey pt-100  pb-100 about-section about-4 bg-tra-city">
 <div class="row">

@@ -25,8 +25,72 @@
                 <div class="col-lg-12 col-xl-12 text-center ">
                    
 <img src="" alt="">
-<h1>Helping in Business Expansion</h1> 
-<p>We provide you a customized and flexible tour packages all over the World. Customer Relationship Management has been a key focus area since the inception of the company and has helped us to grow considerably in a tightrope market. We understand that each tourist is different from the other not only in attributes but also in expectation and motive. This helps us to serve our clients better by upgrading the simple tasks to special just by applying a little imagination and offering on time solutions for any tour-related problem.</p>
+<h1>Foreign Country Compliance</h1> 
+<p>Setting up programs and activities in a foreign country often triggers local reporting and compliance requirements once a legal structure has been determined and established. In most cases your reporting obligations will be dictated by how the F2A is legally registered in the host country. For this reason it is crucial to obtain qualified host-country legal advice in this area. Improper registration or failure to register qualifying activities can have very serious reputational and financial ramifications for the University. </p>
+
+
+                </div>
+             
+            </div> <!-- End row -->
+        </div> <!-- End container -->
+    </section>
+
+    <section class="bg-lightgreys pt-50 pb-50 about-section about-4 bg-tra-citys" id="about-4">
+        <div class="container">
+
+            <div class="row  text-justilfy">
+                <div class="col-lg-12 col-xl-12  ">
+
+
+<p>
+
+<h4>Once registration has occurred (see Establishing Legal Status), examples of ongoing reporting and compliance requirements that may be necessary on a monthly or quarterly basis include: (This is not an exhaustive list.)</h4>
+<ul style="list-style:circle">
+<li>Preparing and filing the monthly financial statements with the local authorities.</li>
+<li>Maintaining books and records in accordance with local generally accepted accounting principles (GAAP) in local currency.</li>
+<li>
+Preparing, filing and coordinating payment of relevant statutory taxes, typically including business taxes and foreign-entity income taxes.</li>
+<li>Preparing, filing and coordinating payment of Value Added Tax (VAT)/Goods and Services Tax (GST) returns where applicable.</li>
+<li>Filing employee payroll income taxes associated with the payroll of local nationals and foreign employees (expatriates and third-country nationals).</li>
+<li>Computing statutory employees' and employer's social insurance contributions, and additional required contributions in compliance with local regulations.</li>
+<li>
+Annual payroll filing and issuance of W-2 equivalent.</li>
+<li>Bookkeeping obligation that all books and records are appropriately "available for inspection" by local authorities.</li>
+
+</ul>
+
+
+
+
+
+
+
+
+<br>
+
+
+
+
+
+<h4>Annual reporting requirements may include:</h4>
+<ul style="list-style:circle">
+
+<li>Completing an audit of the statutory financial statements by a locally authorized professional, often required prior to the renewal of a business license every year.</li>
+<li>
+Completing and filing the annual corporate tax returns and coordinating required payments.</li>
+<li>Annually inspecting and renewing business registration and licenses with government authorities.</li>
+<li>Preparing and filing annual payroll forms.</li>
+</ul>
+
+
+
+
+
+
+
+
+
+ </p>
 
 
                 </div>

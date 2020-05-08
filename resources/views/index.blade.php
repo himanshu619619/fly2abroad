@@ -204,81 +204,6 @@
     </section>
 
 
-
-    <div class="wide-60 statistic-section statistic-2 bg-blue-map" id="statistic-2">
-        <div class="container">
-
-
-            <div class="row">
-                <div class="col-md-12 section-title center white-color">
-
-
-                    <h2 class='h2-xs'>Why Choose Us?</h2><!-- Title -->
-                    <p class='p-md'>Cursus porta, feugiat primis in ultrice ligula risus auctor tempus dolor feugiat,
-                        felis lacinia risus interdum auctor id viverra dolor iaculis luctus placerat and massa </p>
-                    <!-- Text -->
-
-                </div>
-            </div> <!-- END SECTION TITLE -->
-
-            <div class="row d-flex align-items-center">
-
-                <div class="col-md-6 col-lg-3">
-                    <div class="statistic-block icon-sm">
-
-                    <i class="fas fa-user-graduate" style="font-size: 80px; color: #D33234;"></i><!-- Icon -->
-                        <!-- Text -->
-                        <h5 class="primary-color">
-                            <span class="count-element">820</span>
-                            + </h5>
-                        <p class='p-md'>Students</p>
-
-                    </div>
-                </div><!-- STATISTIC BLOCK  -->
-                <div class="col-md-6 col-lg-3">
-                    <div class="statistic-block icon-sm">
-                    <i class="fas fa-university" style="font-size: 80px; color: #D33234;"></i>
-                    
-                        <!-- Text -->
-                        <h5 class="primary-color">
-                            <span class="count-element">127</span>
-                        </h5>
-                        <p class='p-md'>Universities</p>
-
-                    </div>
-                </div><!-- STATISTIC BLOCK  -->
-                <div class="col-md-6 col-lg-3">
-                    <div class="statistic-block icon-sm">
-
-                    <i class="fas fa-globe" style="font-size: 80px; color: #D33234;"></i>
-                        <!-- Text -->
-                        <h5 class="primary-color">
-                            <span class="count-element">81</span>
-                        </h5>
-                        <p class='p-md'>Countries</p>
-
-                    </div>
-                </div><!-- STATISTIC BLOCK  -->
-                <div class="col-md-6 col-lg-3">
-                    <div class="statistic-block icon-sm">
-
-                    <i class="fas fa-plane" style="font-size: 80px; color: #D33234;"></i>
-                        <!-- Text -->
-                        <h5 class="primary-color">
-                            <span class="count-element">969</span>
-                        </h5>
-                        <p class='p-md'>Immigrations</p>
-
-                    </div>
-                </div><!-- STATISTIC BLOCK  -->
-
-            </div> <!-- End row -->
-        </div> <!-- End container -->
-    </div>
-
-
-
-
     <div class="section-divider">
         <div class="container">
             <div class="row">
@@ -297,12 +222,10 @@
                 <div class="col-md-12 section-title center">
 
 
-                    <h2 class='h2-xs'>Immigration Durations</h2><!-- Title -->
+                    <h2 class='h2-xs'>Opportunities In Top Country's </h2><!-- Title -->
 
 
-                    <p class='p-md'>Cursus porta, feugiat primis in ultrice ligula risus auctor tempus dolor feugiat,
-                        felis lacinia risus interdum auctor id viverra dolor iaculis luctus placerat and massa </p>
-                    <!-- Text -->
+                                    <!-- Text -->
 
                 </div>
             </div> <!-- END SECTION TITLE -->
@@ -322,8 +245,7 @@
                         </div>
 
                         <!-- Text -->
-                        <p class='p-xs'>Study. Work. Live in Australia Aliqum mullam blandit tempor sapien gravida donec
-                            ipsum, at porta&hellip;</p>
+                        <p class='p-xs'>With an excellent public education and health sector, globally recognised universities, world class infrastructure and plenty of open space, Australia is a great place to raise a family and has some of the most liveable cities in the world </p>
 
                         <!-- Links List -->
                      
@@ -339,8 +261,7 @@
                         </div>
 
                         <!-- Text -->
-                        <p class='p-xs'>Study. Work. Live in Canada Aliqum mullam blandit tempor sapien gravida donec
-                            ipsum, at porta&hellip;</p>
+                        <p class='p-xs'>Canada is one of the best study destinations for the students in the world offering high-quality education at an affordable fee structure with degrees that are recognized worldwide.</p>
 
                         <!-- Links List -->
                       
@@ -358,8 +279,7 @@
                         </div>
 
                         <!-- Text -->
-                        <p class='p-xs'>Study. Work. Live in United Kingdom Aliqum mullam blandit tempor sapien gravida
-                            donec ipsum, at&hellip;</p>
+                        <p class='p-xs'>Working in the UK opens up many possibilities with there are long-term benefits to your career. Find out how our global opportunities team can help.</p>
 
                         <!-- Links List -->
                      
@@ -376,8 +296,7 @@
                         </div>
 
                         <!-- Text -->
-                        <p class='p-xs'>Study. Work. Live in New Zealand Aliqum mullam blandit tempor sapien gravida
-                            donec ipsum, at&hellip;</p>
+                        <p class='p-xs'>New Zealand has many job openings for specialists in sectors such as health, engineering and IT. But there are also opportunities for workers with more generalist skills, particularly in construction/trades and in business services</p>
 
                         <!-- Links List -->
                       
@@ -394,8 +313,7 @@
                         </div>
 
                         <!-- Text -->
-                        <p class='p-xs'>Study. Work. Live in Singapore Aliqum mullam blandit tempor sapien gravida donec
-                            ipsum, at porta&hellip;</p>
+                        <p class='p-xs'>Explore opportunities to take your career to the next level. Whether you are a student, a graduate or an experienced professional, discover the impact you could make with a career at Shell.</p>
 
                         <!-- Links List -->
                        
@@ -411,8 +329,7 @@
                         </div>
 
                         <!-- Text -->
-                        <p class='p-xs'>Study. Work. Live in USA Aliqum mullam blandit tempor sapien gravida donec
-                            ipsum, at porta&hellip;</p>
+                        <p class='p-xs'>U.S. Study Opportunities Abound ... flexibility, the United States offers a wealth of higher-education opportunities that you will not find anywhere else in the world!</p>
 
                         <!-- Links List -->
                      

@@ -6,8 +6,7 @@
 
 
                 <h2 class='h2-xs'> Our Services</h2><!-- Title -->
-                <p class='p-md'>Cursus porta, feugiat primis in ultrice ligula risus auctor tempus dolor feugiat, felis
-                    lacinia risus interdum auctor id viverra dolor iaculis luctus placerat and massa</p><!-- Text -->
+                <p class='p-md'>Fly 2 Abroad is one of the quickest developing and solid and Top Permanent Resident Visa Consultants, Visa Consultants India and immigration  experts in India. </p><!-- Text -->
 
             </div>
         </div>
@@ -102,7 +101,7 @@ eb-5</p>
                             <div class="sbox-4-icon primary-color"><i class="fas fa-vihara" style="font-size: 50px;"></i></div>
 
                             <div class="sbox-4-txt">
-                                <h5 class='h5-md'>Helping in Business Expansion</h5>
+                                <h5 class='h5-md'>Foreign Country Compliance</h5>
                                 <p>Prospecting  We  for Business Expansion has been the easiest and fastest way to get US Green Card, takes ~24 months.
 
 eb-5</p>
