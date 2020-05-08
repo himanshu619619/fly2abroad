@@ -176,7 +176,7 @@ Surrey, BC V3W 4E8 canada --><a href="#footer-2">INDIA | CANADA</a>
 	<li><a href="{{url('/eb-5')}}" title="Visa Eligibility Assessment">EB 5 Services</a></li>
 	<li><a href="{{url('/tour-travel')}}" title="PR Visa Assessment">Tours & Travel Services</a></li>
 	
-	<li><a href="{{url('/helping-in-business')}}" title="Visa Eligibility Assessment">Foreign Country Compliance</a></li>
+	<li><a href="{{url('/foreign-country-compliance')}}" title="Visa Eligibility Assessment">Foreign Country Compliance</a></li>
 </ul></div>
 
 

@@ -105,7 +105,7 @@ Completing and filing the annual corporate tax returns and coordinating required
 <div class="col-lg-3">
 </div>
 <div class="col-lg-6">
-<h1 style="text-align:center; " class="pt-20 pb-20">Helping in Business Expansion</h1>
+<h1 style="text-align:center; " class="pt-20 pb-20">Foreign Country Compliance</h1>
                 <div role="form" class="wpcf7" id="wpcf7-f535-p532-o1" lang="en-US" dir="ltr">
                     <div class="screen-reader-response"></div>
                     <form action="{{url('sendmail/contact')}}" method="post" class="wpcf7-form" novalidate="novalidate">

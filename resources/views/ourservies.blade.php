@@ -96,7 +96,7 @@ eb-5</p>
 
                 <div class="col-md-6 col-lg-4">
                     <div class="sbox-4 icon-sm">
-                        <a href="{{url('/eb-5')}}">
+                        <a href="{{url('/foreign-country-compliance')}}">
 
                             <div class="sbox-4-icon primary-color"><i class="fas fa-vihara" style="font-size: 50px;"></i></div>
 

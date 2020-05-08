@@ -38,9 +38,9 @@ Route::get('/visa-assistance', function(){
 
     return view('visa-assistance');
 });
-Route::get('/helping-in-business', function(){
+Route::get('/foreign-country-compliance', function(){
 
-    return view('helping-in-business');
+    return view('foreign-country-compliance');
 });
 
 Route::get('/career', function(){
